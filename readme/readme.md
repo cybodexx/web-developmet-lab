@@ -1,10 +1,29 @@
-<h1>hiiii pranav this side </h1>
-<h2>hiiii pranav this side </h2>
-<h3>hiiii pranav this side </h3>
-<h4>hiiii pranav this side </h4>
-<h5>hiiii pranav this side </h5>
-<h6>hiiii pranav this side </h16>
-<h7>hiiii pranav this side </h7>
+# Portfolio
 
+**Pranav** — Student at AKGEC
 
-<a href="[https://github.com/cybodexx]">Clickable Link Text</a>
+---
+
+## About Me
+
+Hello! I am a student currently learning web development and building basic HTML pages.
+
+---
+
+## College Details
+
+* **College Name:** [Ajay Kumar Garg Engineering College (AKGEC)](https://www.akgec.ac.in)
+* **Course:** B.Tech in Information Technology (IT)
+
+---
+
+## Projects
+
+* **Project 1:** [View Project](https://github.com/cybodexx)
+* **Project 2:** [View Project](https://github.com/cybodexx)
+
+---
+
+## Contact
+
+* **Email:** [email@akgec.ac.in](mailto:email@akgec.ac.in)
